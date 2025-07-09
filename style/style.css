@@ -184,7 +184,7 @@
 }
 
 .top-hero {
-    width: 1920px;
+    /* width: 1920px; */
     display: flex;
 }
 
@@ -197,7 +197,7 @@
 }
 
 .top-info {
-    width: 50%;
+    /* width: 50%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -255,7 +255,7 @@
 }
 
 .bottom-hero{
-    width: 1932px;
+    /* width: 1932px; */
     background-image: url(../assets/social-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
